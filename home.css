@@ -3,3 +3,7 @@ p{
     text-decoration: solid;
     text-align: end;
 }
+h1{
+    color: red;
+    text-transform: uppercase;
+}
